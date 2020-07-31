@@ -1,8 +1,4 @@
-<%--
-    Document   : savelogindata
-    Created on : Nov 11, 2008, 2:08:03 PM
-    Author     : user
---%>
+
 <%@page import="java.io.*,java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
