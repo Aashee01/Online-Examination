@@ -1,8 +1,3 @@
-<%-- 
-    Document   : SaveCanPass
-    Created on : 13 Nov, 2014, 2:45:07 AM
-    Author     : Sarika
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
