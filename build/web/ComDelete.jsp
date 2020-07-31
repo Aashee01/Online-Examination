@@ -1,8 +1,4 @@
-<%-- 
-    Document   : ComDelete
-    Created on : May 11, 2014, 8:03:54 PM
-    Author     : Sarika
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
