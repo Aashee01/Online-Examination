@@ -1,8 +1,3 @@
-<%--
-    Document   : savestudentdata
-    Created on : Nov 22, 2008, 11:20:05 AM
-    Author     : Srishti
---%>
 
 
 <%@page import="java.io.*,java.sql.*;" %>
