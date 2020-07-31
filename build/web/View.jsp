@@ -1,8 +1,3 @@
-<%-- 
-    Document   : View
-    Created on : 25 Nov, 2015, 2:52:18 AM
-    Author     : Sarika
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
