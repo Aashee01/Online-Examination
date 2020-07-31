@@ -1,8 +1,4 @@
-<%--
-    Document   : savecompanyedit
-    Created on : Nov 18, 2008, 5:01:35 PM
-    Author     : Srishti
---%>
+
 <%@page import="java.io.*,java.sql.*;"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
